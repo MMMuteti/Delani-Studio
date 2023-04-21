@@ -12,10 +12,17 @@ body {
       margin-top:10vh;
   }
 .home{
-    background-image: url("../IP3/assets/backgrounds/h_img.jpg");
+    background-image: url("..IP3/assets/backgrounds/h_img.jpg");
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
   }
+
+.my_container{
+    margin-top: 30vh;
+    position: absolute;
+    left: 25vh;
+    color: white;
+}
 
 
