@@ -2,3 +2,20 @@ body {
     box-sizing: border-box;
     font-family: "Lato", sans-serif;
   }
+
+*{
+    padding: 0;
+    margin: 0 ;
+  }
+
+.mouse{
+      margin-top:10vh;
+  }
+.home{
+    background-image: url("../IP3/assets/backgrounds/h_img.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+
