@@ -122,6 +122,8 @@
   margin-left: 10%;
 }
 
+/* Contact Us */
+
 .contact-us{
   color: white;
   text-align: center;
@@ -158,6 +160,25 @@
 :: placeholder {
   color: white;
 }
+
+/* Social Icons */
+
+.socials{
+  align-items: center;
+  margin-left: 20px;
+}
+
+.col{
+  margin-left: 26%;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+#work4-p p{
+  display: none;
+}
+
+/* Footer */
 
 footer{
   text-align: center;
