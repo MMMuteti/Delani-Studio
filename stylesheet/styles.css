@@ -59,3 +59,65 @@
   margin-bottom: 30px;
 }
 
+#what-we-do{
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.design1{
+  font-size: 20px;
+}
+
+#design-p{
+  display: none;
+}
+
+.des-icon{
+  margin-top: 30px;
+}
+
+.development{
+  margin-top: 30px;
+}
+.development1{
+  font-size: 20px;
+}
+
+#development-p{
+  display: none;
+}
+
+.prod-management{
+  margin-top: 15px;
+}
+
+.prod1{
+  font-size: 20px;
+}
+
+#prod-p{
+  display: none;
+}
+
+#portfolio{
+  text-align: center;
+}
+
+#portfolio2{
+  margin-bottom: 20px;
+  margin-bottom: 40px;
+}
+.text-wrapper1{
+  background-image: url(../assets/backgrounds/c_image.jpg);
+  background-size: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.text{
+  width:800px;
+  height:250px;
+  background-color: transparent;
+  margin-left: 10%;
+}
