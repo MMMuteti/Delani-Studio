@@ -179,7 +179,7 @@
 {color: white;
 }
 
-/* Social Icons */
+/* social icons */
 
 .socials{
   align-items: center;
@@ -196,13 +196,13 @@
   display: none;
 }
 
-/* Footer */
+/* footer */
 
 footer{
   text-align: center;
 }
 
-/* Portfolio */
+/* portfolio */
 
 .work4,.work3,.work2,.work1,.work5,.work6,.work7,.work8{
   display: none;
@@ -219,7 +219,7 @@ footer{
   padding-top: 3%;
 }
 
-/* Media Queries */
+/* media queries */
 
 @media screen  and  (max-width:980px)  {
   .container{
