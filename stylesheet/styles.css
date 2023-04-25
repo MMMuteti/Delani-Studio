@@ -11,12 +11,15 @@ html, body {
   margin-left: 0%;
   margin-right: 0%;
 }
+
 .content-wrapper{
   width: 100%;
 }
+
 .content-wrapper img{
   width:100%;
 }
+
 .text-wrapper{
   background-image: url(../assets/backgrounds/h_img.jpg);
   background-size: 100%;
@@ -26,13 +29,16 @@ html, body {
   padding-bottom: 5%;
   background-repeat: no-repeat;
 }
+
 #logo {
   margin-bottom: 40px;
 }
+
 #mouse{
   margin-top: 10%;
   margin-bottom: 8%;
 }
+
 #aboutus{
   padding-top: 60px;
   padding-bottom: 50px;
@@ -40,6 +46,7 @@ html, body {
   margin-bottom: 20px;
   text-align: center;
 }
+
 .service{
   background-image: url(../assets/backgrounds/s_image.jpg);
   color: white;
@@ -53,89 +60,111 @@ html, body {
   margin-bottom: 20px;
   background-repeat: no-repeat;
 }
+
 #service{
   padding-top: 100px;
   padding-bottom:100px;
   margin-top: 30px;
   margin-bottom: 30px;
 }
+
 #what-we-do{
   text-align: center;
   margin-top: 30px;
   margin-bottom: 30px;
 }
+
 .design1{
   font-size: 20px;
 }
+
 #design-p{
   display: none;
 }
+
 .des-icon{
   margin-top: 30px;
 }
+
 .development{
   margin-top: 30px;
 }
+
 .development1{
   font-size: 20px;
 }
+
 #development-p{
   display: none;
 }
+
 .prod-management{
   margin-top: 15px;
 }
+
 .prod1{
   font-size: 20px;
 }
+
 #prod-p{
   display: none;
 }
+
 #portfolio{
   text-align: center;
 }
+
 #portfolio2{
   margin-bottom: 20px;
   margin-bottom: 40px;
 }
+
 .text-wrapper1{
   background-image: url(../assets/backgrounds/c_image.jpg);
   background-size: 100%;
   padding-top: 20px;
   padding-bottom: 20px;
 }
+
 .text{
   width:800px;
   height:250px;
   background-color: transparent;
   margin-left: 10%;
 }
+
 .contact-us{
   color: white;
   text-align: center;
   margin-top: 20px;
 }
+
 #name , #name::placeholder{
   background-color: transparent;
   margin-bottom: 20px;
   color: white;
 }
+
 #email , #email::placeholder{
   background-color: transparent;
   margin-bottom: 20px;
   color: white;
 }
+
 #email , #name{
   margin-left: 23%;
 }
+
 #form1{
   margin-left: 100px;
   width: 800px;
 }
+
 #submit{
   margin-left:48%;
   margin-top: 20px;
 }
+
 ::placeholder{
   color: white;
 }
@@ -176,7 +205,8 @@ footer{
 
 /* media queries */
 
-@media screen  and  (max-width:980px)  {
+@media screen  and  (max-width:980px) 
+{
   .container{
     width:100%;
     margin-bottom:10px;
