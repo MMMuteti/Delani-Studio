@@ -1,18 +1,23 @@
 // what we do section
+
 $(document).ready(function() {
     $("#design-1").click(function() {
       $("#design-p").toggle();
       $("#design-icon").toggle();
     });
+
     $("#development").click(function() {
       $("#development-p").toggle();
       $("#development-1").toggle();
     });
+
     $("#product-management").click(function() {
       $("#prod-management-1").toggle();
       $("#prod-p").toggle();
     });
+
     // portfolio section
+
     $("#work4").hover(function(){
       $(".work4").toggle(500);
     });
@@ -40,7 +45,7 @@ $(document).ready(function() {
   });
   
   // getting the name from form
-  
+
   $(document).ready(function() {
     $("#submit").click (function(event) {
       console.log("working")
@@ -48,7 +53,9 @@ $(document).ready(function() {
       var name=document.getElementById("name").value;
       var email=document.getElementById("email").value;
       var text=document.getElementById("text").value;
+
       // form validation
+      
       if (name == ""){
         alert("please enter your name");
         return false;
